@@ -8,6 +8,6 @@ namespace ConsoleDemo1.Day6_19Feb
 {
     internal class ArrayDemo
     {
-
+        Console.WriteLine("First Push");
     }
 }
